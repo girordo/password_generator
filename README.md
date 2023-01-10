@@ -1,6 +1,6 @@
-# PasswordGenerator
+# Password Generator
 
-I'm following this [tutorial](https://www.youtube.com/watch?v=sJMPLoqIS7M)
+I'm following this [tutorial](https://www.youtube.com/watch?v=gRQIPvDFuts)
 
 ## Installation
 
